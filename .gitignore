@@ -1,0 +1,21 @@
+# Output/build folders
+bin/
+obj/
+
+# IDE's folders and user preferences
+.vs/
+.idea/
+.vscode/
+
+# User files and local settings
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local configuration
+appsettings.Development.json
+*.env
+
+# System Files
+.DS_Store
+Thumbs.db
